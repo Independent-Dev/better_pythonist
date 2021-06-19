@@ -1,5 +1,6 @@
 from flask import Flask
 
+
 SECRET_MESSAGE = 'fluffy tail'
 
 app = Flask(__name__)
